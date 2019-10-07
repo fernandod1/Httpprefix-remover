@@ -4,7 +4,7 @@
  Url: https://github.com/dlfernando/
  License: MIT
 
- This script show a form where you can submit string and will remove
+ This PHP script displays a form where you can submit string and will remove
  first ocurrence of substring (http:// , http:// , http://www. , https://www.)
 */
 if(isset($_POST['downloadtxt'])){
