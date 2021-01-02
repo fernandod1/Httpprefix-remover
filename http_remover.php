@@ -1,7 +1,7 @@
 <? 
 /*
  Copyright (c) 2019 Fernando
- Url: https://github.com/dlfernando/
+ Url: https://github.com/fernandod1/
  License: MIT
 
  This PHP script displays a form where you can submit string and will remove
@@ -123,4 +123,7 @@ bbc.com/?link=https://bing.com
 </div>
 </body>
 </html>
+
+
 <? } ?>
+

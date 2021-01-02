@@ -6,10 +6,6 @@ Examples usage:
 
 upload php file to server, and fill form with urls you want to modify.
 
-REQUIREMENTS:
-
-PHP
-
 COLLABORATIONS:
 
-Collaborations to improve this script are always welcome :)
+Collaborations to improve script are always welcome.
